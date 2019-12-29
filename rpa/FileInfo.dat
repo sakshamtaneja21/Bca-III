@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="tranning 2-4 oct script 1 notepad.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/04/2019 09:14:18</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="tranning 2-4 oct web recorder extract.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/03/2019 11:59:49</Property>
+      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="web recoder extract pattern multiple paage .atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/02/2019 15:32:56</Property>
+      <Property Name="RunDuration">00:01:44</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="database write.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/03/2019 09:56:27</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="databasae read .atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/03/2019 10:33:05</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="text to excel.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/03/2019 11:00:34</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="excel to db.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/03/2019 11:50:40</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="web recorder extract and condition .atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/03/2019 12:42:48</Property>
+      <Property Name="RunDuration">00:00:09</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="error handling.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/03/2019 14:40:51</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="pdf intrigration.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/03/2019 14:59:37</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="encription.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/03/2019 15:28:25</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="trannimng 2-4 oct workflow designer .wkfx">
+    <Properties>
+      <Property Name="LastRunTime">10/04/2019 09:14:23</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="smart recorder control pannel.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/04/2019 09:49:26</Property>
+      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="email automation.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/04/2019 11:59:10</Property>
+      <Property Name="RunDuration">00:00:36</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="xml automation .atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/04/2019 12:57:08</Property>
+      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
