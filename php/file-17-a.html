@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<HTML>
+	<HEAD>
+		<TITLE> Register </TITLE>
+		<STYLE TYPE = "TEXT/CSS">
+			BODY {
+				background-image: url("dark-blur-abstract-4k-v3-3840x2160.jpg");
+				background-repeat: no-repeat;				background-size: cover;
+				font-family: "Ubuntu";				font-size: 19px;				color: #F5F5F5;
+				text-shadow: 2px 2px 4px #000000;
+			}
+			input[type=text], input[type=password], input[type=email], input[type=date], select, textarea{
+				font-family: "Ubuntu";				font-size: 19px;
+				width: 100%;				padding: 8px;				box-sizing: border-box;				border: none;
+			}
+			.button{
+				background-color: #00FF00;
+				padding: 11px 12px;
+				font-family: "Ubuntu";				font-size: 16px;				color: #F5F5F5;
+				text-shadow: 2px 2px 4px #000000;
+				box-sizing: border-box;				border: none;
+				border-top-left-radius: 10px;
+				border-bottom-right-radius: 10px;
+			}
+			.button:hover{
+				box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+			}
+			TABLE{
+				text-align: center;
+				padding: 10px;
+				border-top-right-radius: 20px;
+				border-bottom-left-radius: 20px;
+				background-color: #FFFF00;
+				box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+			}
+		</STYLE>
+	</HEAD>
+	<BODY>
+		<TABLE ALIGN = "CENTER" CELLPADDING = "7" CELLSPACING = "0" BORDER = "2">
+			<FORM METHOD = "POST" ACTION = "file-17-b.php">
+				<TR>
+					<TD> Name </TD>
+					<TD> <INPUT TYPE = "TEXT" NAME = "name" PLACEHOLDER = "Enter your name" SIZE = "32" REQUIRED> </TD>
+				</TR>
+				<TR>
+					<TD> Age </TD>
+					<TD> <INPUT TYPE = "TEXT" NAME = "age" PLACEHOLDER = "Enter your age" SIZE = "16" REQUIRED> </TD>
+				</TR>
+				<TR>
+					<TD> Gender </TD>
+					<TD>
+						<INPUT TYPE = "RADIO" NAME = "sex" VALUE = "Male"> Male
+						<INPUT TYPE = "RADIO" NAME = "sex" VALUE = "Female"> Female
+						<INPUT TYPE = "RADIO" NAME = "sex" VALUE = "Other"> Other
+					</TD>
+				</TR>
+				<TR>
+					<TD> E-Mail </TD>
+					<TD> <INPUT TYPE = "EMAIL" NAME = "mail" PLACEHOLDER = "Enter your email" SIZE = "32" REQUIRED> </TD>
+				</TR>
+				<TR>
+					<TD> Password </TD>
+					<TD> <INPUT TYPE = "PASSWORD" NAME = "psw" PLACEHOLDER = "Enter a suitable password" SIZE = "32" REQUIRED> </TD>
+				</TR>
+				<TR>
+					<TD COLSPAN = "2" ALIGN = "CENTER">
+						<INPUT TYPE = "RESET" CLASS = "button" VALUE = "RESET">
+						<INPUT TYPE = "SUBMIT" CLASS = "button" VALUE = "SUBMIT">
+					</TD>
+				</TR>
+			</FORM>
+		</TABLE>
+	</BODY>
+</HTML>
